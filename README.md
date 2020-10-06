@@ -42,8 +42,11 @@ plot_matrix(mydata[5, 2:785])
 - Once having a full new training set, grow the classification tree (use the default parameters values of the library that are decided to use to grow these trees).  
 - Finally, to produce a prediction, select the appropriate features for each new test image that corresponds to each tree and combine the outputs according to a majority voting rule.
 - Run the script for 1, 10, and 500 trees. Each time produces a confusion matrix to summarize the results. Draw comparisons with the accuracy obtained with logistic regression.</p>
+
 ----
+
 ## Model accuracy comparison
+
 | Models | Accuracy |
 | ------------- | ------------- |
 | Linear regression  | 66.59%  |
