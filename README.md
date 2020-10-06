@@ -29,8 +29,8 @@ plot_matrix(mydata[5, 2:785])
 [Code file](https://github.com/Janette-Le/R-MNIST/blob/main/Codes%20-%20Logistic%20regression.R)<br>
 [Report](https://github.com/Janette-Le/R-MNIST/blob/main/Logistic%20Regression%20report.pdf)<br>
 
-![.](/images/linear 1.PNG)
-![.](/images/linear 2.PNG)
+![image1](https://github.com/Janette-Le/R-MNIST/blob/main/images/linear%201.PNG)<br>
+![image2](https://github.com/Janette-Le/R-MNIST/blob/main/images/linear%202.PNG)
 
 -----
 
