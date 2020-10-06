@@ -53,5 +53,5 @@ The task is to deploy a script that allows us to grow multiple classification tr
 | ------------- | ------------- |
 | Linear regression  | 66.59%  |
 | Random forests - 1 tree| 82.85% |
-| Random forests -  tree| 94.91% |
-| Random forests - 1 tree| 97.22% |
+| Random forests - 10 trees| 94.91% |
+| Random forests - 500 trees| 97.22% |
