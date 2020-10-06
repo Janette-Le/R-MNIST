@@ -26,16 +26,12 @@ If you want to plot the fifth image, for example, you can call the plot function
 plot_matrix(mydata[5, 2:785])
 ```
 
------
-
 ## Logistic regression:
 :black_nib: [Code file](https://github.com/Janette-Le/R-MNIST/blob/main/Codes%20-%20Logistic%20regression.R)<br>
 :page_with_curl: [Report](https://github.com/Janette-Le/R-MNIST/blob/main/Logistic%20Regression%20report.pdf)<br>
 
 ![image1](https://github.com/Janette-Le/R-MNIST/blob/main/images/linear%201.PNG)<br>
 ![image2](https://github.com/Janette-Le/R-MNIST/blob/main/images/linear%202.PNG)
-
------
 
 ## Random forests
 :black_nib: [Code file](https://github.com/Janette-Le/R-MNIST/blob/main/Codes%20-%20Random%20forest.R)<br>
@@ -47,7 +43,6 @@ The task is to deploy a script that allows us to grow multiple classification tr
 - Finally, to produce a prediction, select the appropriate features for each new test image that corresponds to each tree and combine the outputs according to a majority voting rule.
 - Run the script for 1, 10, and 500 trees. Each time produces a confusion matrix to summarize the results. Draw comparisons with the accuracy obtained with logistic regression.
 </p>
-----
 
 ## Model accuracy comparison
 
